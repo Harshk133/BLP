@@ -1,0 +1,2 @@
+Terminals
+$ ls -al | more
